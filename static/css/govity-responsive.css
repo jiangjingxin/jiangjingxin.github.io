@@ -2049,18 +2049,26 @@
     }
     .feature-one{
         padding: 0 15px;
+        margin-top: 98px;
     }
     .services-one{
         padding: 0 15px;
+        margin-top: 98px;
+    }
+    .services-cards .cards-item img{
+        height: 60px;
     }
     .team-one{
         padding: 0 15px;
+        margin-top: 98px;
     }
     .testimonial-one{
         padding: 0 15px;
+        margin-top: 98px;
     }
     .portfolio-one{
         padding: 0 15px;
+        margin-top: 98px;
     }
     .site-footer{
         padding: 0 15px;
@@ -2331,6 +2339,7 @@
     }
     .with-us{
         padding: 0 15px !important;
+        margin-top: 20px;
     }
     .tariff-title{
         font-size: 30px;
