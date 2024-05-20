@@ -2058,6 +2058,9 @@
     .services-cards .cards-item img{
         height: 60px;
     }
+    .services-cards .cards-item .text{
+        line-height: 24px;
+    }
     .team-one{
         padding: 0 15px;
         margin-top: 98px;
@@ -2085,8 +2088,13 @@
     .services-title p{
         font-size: 30px;
     }
+    .with-us .with-us-content{
+        padding: 40px 15px;
+    }
     .team-one-title p{
         font-size: 30px;
+        height: 87px;
+        line-height: 49px;
     }
     .testimonial-one-title p{
         font-size: 30px;
@@ -2117,25 +2125,28 @@
     .footer-phone .phone p{
         font-size: 16px;
     }
+    .footer-phone .phone{
+        display: flex;
+    }
     .footer-phone .phone div{
         font-size: 18px;
+        margin-left: 10px;
     }
     .footer-phone{
         margin-left: 20px;
+        width: 100%;
+        border: none;
+        margin-bottom: 30px;
+        justify-content: start;
     }
     .footer-name p{
         margin: 15px 0 15px 15px;
         
     }
-    .footer-phone{
-        width: calc(50% - 20px);
-        border: none;
-        margin-bottom: 30px;
-        justify-content: start;
-    }
     .footer-weixin{
-        width: 50%;
+        width: 100%;
         justify-content: start;
+        margin-left: 20px;
     }
     .footer-weixin p{
         font-size: 16px;
@@ -2147,6 +2158,7 @@
     .footer-weixin .erweima{
         width: 80px;
         height: 80px;
+        margin-left: 12px;
     }
     .team-one-img-detail{
         height: 234px;
@@ -2156,6 +2168,9 @@
     }
     .team-one-detail-text div{
         font-size: 16px;
+    }
+    .about-us-w{
+        height: 27.33%;
     }
 }
 

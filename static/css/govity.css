@@ -2549,6 +2549,7 @@ ul {
 .cards-item .item-text{
   margin-left: 24px;
   flex: 1;
+  font-weight: 400;
 }
 .item-text .item-title{
   font-size: 20px;
