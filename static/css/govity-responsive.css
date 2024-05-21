@@ -426,7 +426,7 @@
         font-size: 30px;
     } */
     .tariff-carousel{
-        padding: 48px 15px !important;
+        padding: 12px 15px 48px 15px !important;
     }
     .main-slider2{
         display: block;
@@ -968,7 +968,7 @@
         font-size: 20px;
     }
     .tariff-carousel{
-        padding: 48px 15px !important;
+        padding: 12px 15px 48px 15px !important;
     }
     .main-slider2{
         display: block;
@@ -2063,7 +2063,7 @@
     }
     .team-one{
         padding: 0 15px;
-        margin-top: 98px;
+        margin-top: 60px;
     }
     .testimonial-one{
         padding: 0 15px;
@@ -2093,7 +2093,7 @@
     }
     .team-one-title p{
         font-size: 30px;
-        height: 87px;
+        height: 98px;
         line-height: 49px;
     }
     .testimonial-one-title p{
@@ -2108,6 +2108,7 @@
     }
     .services-cards .cards-item{
         width: 100%;
+        margin-top: 30px;
     }
     .testimonial-type-item{
         width: 100%;
@@ -2170,7 +2171,11 @@
         font-size: 16px;
     }
     .about-us-w{
-        height: 27.33%;
+        height: 28.33%;
+    }
+    .portfolio-content{
+        font-size: 14px;
+        line-height: 24px;
     }
 }
 
@@ -2263,7 +2268,7 @@
         font-size: 20px;
     }
     .tariff-carousel{
-        padding: 48px 15px !important;
+        padding: 12px 15px 48px 15px !important;
     }
     .main-slider2{
         display: block;
@@ -2370,7 +2375,7 @@
         font-size: 20px;
     }
     .tariff-carousel{
-        padding: 48px 15px !important;
+        padding: 12px 15px 48px 15px !important;
     }
     .main-slider2{
         display: block;
@@ -2552,11 +2557,15 @@
         width: 300px;
         height: 60px;
     }
+    .tariff-phone img{
+        width: 30px;
+        height: 30px;
+    }
     .phone-num{
         font-size: 20px;
     }
     .tariff-carousel{
-        padding: 48px 15px !important;
+        padding: 12px 15px 48px 15px !important;
     }
     .main-slider2{
         display: block;
